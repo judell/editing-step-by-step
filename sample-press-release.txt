@@ -1,6 +1,6 @@
 Remcoms' XFdtd EM Simulation Software supports diplex-matched antennas, and enables designers to work faster
 
-XFdtd’s schematic editor is a novel electromagnetic simulation tool that combines matching network analysis with full-wave results, making it ideal for complex antenna design applications involving multi-state and multi-port aperture or impedance tuners and corporate feed networks with digital phase shifters.
+XFdtd’s schematic editor, a novel electromagnetic simulation tool, combines matching network analysis with full-wave results. It's ideal for complex antenna designs that involve multi-state and multi-port aperture or impedance tuners, and for corporate feed networks with digital phase shifters.
 
 The latest release builds on the previous framework with additional antenna configurations and time-saving options in the schematic editor’s interface, simplifying analysis of a matching network’s impact on FDTD results. In particular, the capability to connect two voltage sources to a single antenna improves workflow efficiency for diplex matched antenna use cases. System and radiation efficiencies can be effortlessly computed from a single schematic for both operating modes.
 
