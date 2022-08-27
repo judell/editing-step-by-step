@@ -1,0 +1,10 @@
+Remcom Broadens Capabilities Of Schematic Editor To Support Diplex Matched Antennas In XFdtd EM Simulation Software
+Remcom announces expanded capabilities within its schematic editor in the latest release of XFdtd® 3D EM Simulation Software, including support for diplex matched antennas and new efficiencies aimed at streamlining antenna design workflows and shortening design cycles.
+
+XFdtd’s schematic editor is a novel electromagnetic simulation tool that combines matching network analysis with full-wave results, making it ideal for complex antenna design applications involving multi-state and multi-port aperture or impedance tuners and corporate feed networks with digital phase shifters.
+
+The latest release builds on the previous framework with additional antenna configurations and time-saving options in the schematic editor’s interface, simplifying analysis of a matching network’s impact on FDTD results. In particular, the capability to connect two voltage sources to a single antenna improves workflow efficiency for diplex matched antenna use cases. System and radiation efficiencies can be effortlessly computed from a single schematic for both operating modes.
+
+Other enhancements include the ability to compute averaged SAR for dynamically tuned antennas leveraging multi-port impedance and aperture tuners. Schematic matching network simulation fidelity has also increased with the inclusion of microstrip models and substrate definitions.
+
+Additional updates are aimed at fostering a more intuitive and collaborative experience for engineering teams. XFdtd now incorporates frequency bands showcasing the benefit of the FDTD method for producing many broadband results using a single run. Most commonly used bands are included in the Frequency Band Library to streamline user input. Users can also define their own custom bands and add them to the library, import bands from external files, and export bands.
